@@ -11,7 +11,7 @@ import org.apache.http.HttpStatus;
 import com.hpe.devops.entities.UserDetails;
 import com.hpe.devops.utilities.ServerConfiguration;
 
-@Path("/user/v01")
+@Path("/v01/user")
 public class UserWebController {
 
 	/*************************** Check Credentials ***************************/
@@ -39,4 +39,4 @@ public class UserWebController {
 
 }
 
-// http://localhost:8080/DevOpsServer/user/v01/isAuthenticated/admin/admin
+// http://localhost:8080/DevOpsServer/v01/user/isAuthenticated/admin/default
