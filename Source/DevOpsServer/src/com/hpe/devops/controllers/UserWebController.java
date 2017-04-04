@@ -40,3 +40,5 @@ public class UserWebController {
 }
 
 // http://localhost:8080/DevOpsServer/v01/user/isAuthenticated/admin/default
+
+// http://35.166.79.166:8080/DevOpsServer/v01/user/isAuthenticated/admin/default

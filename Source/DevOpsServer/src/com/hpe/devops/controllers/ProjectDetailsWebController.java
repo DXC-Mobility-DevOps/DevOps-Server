@@ -21,3 +21,5 @@ public class ProjectDetailsWebController {
 }
 
 // http://localhost:8080/DevOpsServer/v01/projectdetails/list
+
+// http://35.166.79.166:8080/DevOpsServer/v01/projectdetails/list

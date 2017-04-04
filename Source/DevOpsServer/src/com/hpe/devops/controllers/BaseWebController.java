@@ -22,4 +22,6 @@ public class BaseWebController {
 	 
 }
 
-//	http://localhost:8080/DevOpsServer/v01/isConnected
+// http://localhost:8080/DevOpsServer/v01/isConnected
+
+// http://35.166.79.166:8080/DevOpsServer/v01/isConnected
