@@ -86,7 +86,7 @@ public class ProjectDetails {
 		projectDetails5.buildPlatform = "Android";
 		projectDetails5.buildStatus = "Success";
 		projectDetails5.buildHealth = "30";
-		projectDetails5.buildTriggeredBy = "SCM Change";
+		projectDetails5.buildTriggeredBy = "Daily automation build";
 		projectDetails5.codeCoveragePercentage = "60";
 		projectDetails5.lastCommitDate = "03-Apr-2017 14:00";
 		projectDetails5.lastCommitBy = "Gokul Nath Periasamy";
@@ -101,18 +101,18 @@ public class ProjectDetails {
 		projectDetails6.buildPlatform = "Android";
 		projectDetails6.buildStatus = "Success";
 		projectDetails6.buildHealth = "100";
-		projectDetails6.buildTriggeredBy = "Manual by 19.2.5.10";
+		projectDetails6.buildTriggeredBy = "Started by admin";
 		projectDetails6.codeCoveragePercentage = "100";
-		projectDetails6.lastCommitDate = "-";
-		projectDetails6.lastCommitBy = "-";
-		projectDetails6.lastCommitComment = "-";
-		projectDetails6.lastCommitEmailId = "-";
+        projectDetails2.lastCommitDate = "02-Apr-2017 09:00";
+        projectDetails2.lastCommitBy = "Vivek Kumar";
+        projectDetails2.lastCommitComment = "Implement UI changes.";
+        projectDetails2.lastCommitEmailId = "vicek-kumar@hpe.com";
 		projectDetailsList.add(projectDetails6);
 		
 		ProjectDetails projectDetails7 = new ProjectDetails();
-		projectDetails7.projectName = "DevOps-iOSClient";
+		projectDetails7.projectName = "DevOps-iOS-Client";
 		projectDetails7.buildVersion = "1.0";
-		projectDetails7.buildName = "DevOps-iOSClient_1.0";
+		projectDetails7.buildName = "DevOps-iOS-Client_1.0";
 		projectDetails7.buildPlatform = "iOS";
 		projectDetails7.buildStatus = "Success";
 		projectDetails7.buildHealth = "100";
