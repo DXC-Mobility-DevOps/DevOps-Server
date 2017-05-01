@@ -28,7 +28,7 @@ public class ProjectDetails {
 		projectDetails1.buildHealth = "100";
 		projectDetails1.buildTriggeredBy = "SCM Change";
 		projectDetails1.codeCoveragePercentage = "100";
-		projectDetails1.lastCommitDate = "04-Apr-2017 14:00";
+		projectDetails1.lastCommitDate = "05-Apr-2017 15:00";
 		projectDetails1.lastCommitBy = "Gokul Nath Periasamy";
 		projectDetails1.lastCommitComment = "UI/UX Modifications for MYR";
 		projectDetails1.lastCommitEmailId = "gokul-nath.periasamy@hpe.com";
@@ -43,7 +43,7 @@ public class ProjectDetails {
 		projectDetails2.buildHealth = "80";
 		projectDetails2.buildTriggeredBy = "SCM Change";
 		projectDetails2.codeCoveragePercentage = "80";
-		projectDetails2.lastCommitDate = "02-Apr-2017 09:00";
+		projectDetails2.lastCommitDate = "05-Apr-2017 05:00";
 		projectDetails2.lastCommitBy = "Vivek Kumar";
 		projectDetails2.lastCommitComment = "Implement UI changes.";
 		projectDetails2.lastCommitEmailId = "vicek-kumar@hpe.com";
@@ -55,10 +55,10 @@ public class ProjectDetails {
 		projectDetails3.buildName = "SHELL_12.2.3.5";
 		projectDetails3.buildPlatform = "Android";
 		projectDetails3.buildStatus = "Failed";
-		projectDetails3.buildHealth = "40";
+		projectDetails3.buildHealth = "50";
 		projectDetails3.buildTriggeredBy = "SCM Change";
-		projectDetails3.codeCoveragePercentage = "50";
-		projectDetails3.lastCommitDate = "03-Apr-2017 05:50";
+		projectDetails3.codeCoveragePercentage = "55";
+		projectDetails3.lastCommitDate = "05-Apr-2017 05:55";
 		projectDetails3.lastCommitBy = "Gokul Nath Periasamy";
 		projectDetails3.lastCommitComment = "Shell Fixes";
 		projectDetails3.lastCommitEmailId = "gokul-nath.periasamy@hpe.com";
@@ -73,7 +73,7 @@ public class ProjectDetails {
 		projectDetails4.buildHealth = "100";
 		projectDetails4.buildTriggeredBy = "SCM Change";
 		projectDetails4.codeCoveragePercentage = "100";
-		projectDetails4.lastCommitDate = "04-Apr-2017 14:00";
+		projectDetails4.lastCommitDate = "05-Apr-2017 14:50";
 		projectDetails4.lastCommitBy = "Gokul Nath Periasamy";
 		projectDetails4.lastCommitComment = "Fix build issues.";
 		projectDetails4.lastCommitEmailId = "gokul-nath.periasamy@hpe.com";
@@ -88,7 +88,7 @@ public class ProjectDetails {
 		projectDetails5.buildHealth = "30";
 		projectDetails5.buildTriggeredBy = "Daily automation build";
 		projectDetails5.codeCoveragePercentage = "60";
-		projectDetails5.lastCommitDate = "03-Apr-2017 14:00";
+		projectDetails5.lastCommitDate = "05-Apr-2017 14:50";
 		projectDetails5.lastCommitBy = "Gokul Nath Periasamy";
 		projectDetails5.lastCommitComment = "Include new Jars";
 		projectDetails5.lastCommitEmailId = "ua-user@hpe.com";
@@ -103,7 +103,7 @@ public class ProjectDetails {
 		projectDetails6.buildHealth = "100";
 		projectDetails6.buildTriggeredBy = "Started by admin";
 		projectDetails6.codeCoveragePercentage = "100";
-        projectDetails2.lastCommitDate = "02-Apr-2017 09:00";
+        projectDetails2.lastCommitDate = "05-Apr-2017 09:50";
         projectDetails2.lastCommitBy = "Vivek Kumar";
         projectDetails2.lastCommitComment = "Implement UI changes.";
         projectDetails2.lastCommitEmailId = "vicek-kumar@hpe.com";
@@ -118,7 +118,7 @@ public class ProjectDetails {
 		projectDetails7.buildHealth = "100";
 		projectDetails7.buildTriggeredBy = "SCM Change";
 		projectDetails7.codeCoveragePercentage = "100";
-		projectDetails7.lastCommitDate = "04-Apr-2017 14:00";
+		projectDetails7.lastCommitDate = "05-Apr-2017 14:05";
 		projectDetails7.lastCommitBy = "Gokul Nath Periasamy";
 		projectDetails7.lastCommitComment = "Initial Commit";
 		projectDetails7.lastCommitEmailId = "gokul-nath.periasamy@hpe.com";
